@@ -1,5 +1,11 @@
 Hi 👋 My name is Amr Zakaria
-============================Penetration Tester & Bug Hunter-------------------------------I'm a certified computer and systems engineer, and also certified full stack web developer. Currently I'm studying all the different web apps and domain vulnerabilities and more interested in cyber security field.* 🌍  I'm based in Cairo/Egypt* ✉️  You can contact me at [amrzakarya01@gmail.com](mailto:amrzakarya01@gmail.com)* 🧠  I'm learning PHP* ⚡  Remember: No system is safe.
+-------------------------Penetration Tester & Bug Hunter-------------------------
+I'm a certified computer and systems engineer, and also certified full stack web developer. 
+Currently I'm studying all the different web apps and domain vulnerabilities and more interested in cyber security field.
+* 🌍  I'm based in Cairo/Egypt
+* ✉️  You can contact me at [amrzakarya01@gmail.com](mailto:amrzakarya01@gmail.com)
+* 🧠  I'm learning PHP
+* ⚡  Remember: No system is safe.
 
 ### Skills
 
