@@ -8,7 +8,6 @@ I'm a certified computer and systems engineer, and also certified full stack web
 
 *   🌍  I'm based in Cairo/Egypt
 *   ✉️  You can contact me at [amrzakarya01@gmail.com](mailto:amrzakarya01@gmail.com)
-*   🧠  I'm learning PHP
 
 
  ### Skills 
