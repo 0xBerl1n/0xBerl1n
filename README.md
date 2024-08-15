@@ -1,7 +1,7 @@
 Hi 👋 My name is Amr Zakaria
 ============================
 
-Full Stack Web Developer & Penetration Tester
+Backend Developer & Penetration Tester
 -------------------------------
 
 I'm a certified computer and systems engineer, and also certified full stack web developer.
