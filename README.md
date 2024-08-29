@@ -1,11 +1,7 @@
 *   I'm a certified computer and systems engineer
 *   Certified full stack web dev (React-Laravel)
---------------------------------------------
--Certified Linux system admin (RHCSA 1,2)
---------------------------------------------
--Finished Comptia Network+
---------------------------------------------
-
+*   Certified Linux system admin (RHCSA 1,2)
+*   Finished Comptia Network+
 
 Currently studying Comptia CCNA
 ============================
