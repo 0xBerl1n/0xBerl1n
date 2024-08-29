@@ -1,10 +1,15 @@
-Hi 👋 My name is Amr Zakaria
+I'm a Network Engineer & Ethical Hacker.
 ============================
 
-Backend Developer & Penetration Tester
--------------------------------
+I'm a certified computer and systems engineer
+-Certified full stack web dev (React-Laravel)
+-Certified Linux system admin (RHCSA 1,2)
+-Finished Comptia Network+
 
-I'm a certified computer and systems engineer, and also certified full stack web developer.
+============================
+Currently studying Comptia CCNA
+============================
+
 
 *   🌍  I'm based in Cairo/Egypt
 *   ✉️  You can contact me at [amrzakarya01@gmail.com](mailto:amrzakarya01@gmail.com)
