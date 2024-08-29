@@ -1,9 +1,5 @@
-I'm a Network Engineer & Ethical Hacker
-============================
-
-I'm a certified computer and systems engineer
---------------------------------------------
--Certified full stack web dev (React-Laravel)
+*   I'm a certified computer and systems engineer
+*   Certified full stack web dev (React-Laravel)
 --------------------------------------------
 -Certified Linux system admin (RHCSA 1,2)
 --------------------------------------------
