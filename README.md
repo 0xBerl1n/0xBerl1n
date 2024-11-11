@@ -3,7 +3,7 @@
 *   Certified Linux system admin (RHCSA 1,2)
 *   Finished Comptia Network+
 
-Currently studying Comptia eJPTv2
+Currently studying INE eJPTv2
 ============================
 
 
