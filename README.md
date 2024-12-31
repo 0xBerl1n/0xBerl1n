@@ -2,6 +2,7 @@
 *   Certified full stack web dev (React-Laravel)
 *   Certified Linux system admin (RHCSA 1)
 *   Finished Comptia Network+
+*   Finished INE eJPTv1
 
 Currently studying INE eWAPT
 ============================
